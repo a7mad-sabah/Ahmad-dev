@@ -1,0 +1,70 @@
+{
+  "job": "Frontend Developer",
+  "name": "Ahmad sabah",
+  "desc": "The traveler of this path a web designer and web Developer in Sulaymaniyah.",
+  "aboutDesc": "Hi my name Ahmad sabah I live in Sulaimani, I am 22 years old I have an IT degree in Sulaimani I have several projects in the fields of web - frontend developer, for three years I have been designing and freelance and worked in several companies ('Learning never exhausts the mind.') Leonardo da Vinci",
+  "email": "Amadsabah6@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://t.me/A7madsabah",
+  "projects": [
+  {
+      "project-name": "Supermarket ERP",
+      "project-desc": "",
+      "project-image-url": "/images/project11.jpg",
+      "project-link": "https://supermarket-erp-one.vercel.app/"
+    },
+     {
+      "project-name": "K Removal house - still working on it ",
+      "project-desc": "",
+      "project-image-url": "/images/project7.jpg",
+      "project-link": "https://housemove-six.vercel.app/"
+    },
+    {
+      "project-name": "bnkai zhen - still working on it ",
+      "project-desc": "",
+      "project-image-url": "/images/project1.jpg",
+      "project-link": "https://bnkay-zhin.vercel.app/"
+    },
+    {
+      "project-name": "nawandi tishk",
+      "project-desc": "",
+      "project-image-url": "/images/project2.jpg",
+      "project-link": "https://nawandi-tishk.vercel.app/"
+    },
+    {
+      "project-name": "freshcutgo - UK barber",
+      "project-desc": "",
+      "project-image-url": "/images/project3.jpg",
+      "project-link": "https://freshcutgo.uk/"
+    },
+
+    {
+      "project-name": "golden hand - final Student project",
+      "project-desc": "",
+      "project-image-url": "/images/project4.jpg",
+      "project-link": "https://webconstruction-h8gd.vercel.app/"
+    },
+    {
+      "project-name": "mamsik - still working on it",
+      "project-desc": "",
+      "project-image-url": "/images/project6.jpg",
+      "project-link": "https://mamsik.vercel.app/"
+    },
+    {
+      "project-name": "get to know me",
+      "project-desc": "",
+      "project-image-url": "/images/project5.jpg",
+      "project-link": "https://ahmad-sabah.vercel.app/"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaInstagram",
+      "link": "#"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "#"
+    }
+  ]
+}
