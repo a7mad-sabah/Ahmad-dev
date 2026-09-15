@@ -32,18 +32,18 @@ export default function About() {
           <h1 className="text-3xl font-semibold text-center mb-10">Skills</h1>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
-            {/* React */}
+            {/* Next.js (گۆڕدرا لە React Native / یان React) */}
             <div className="bg-white border rounded-2xl p-5 shadow-sm hover:shadow-xl hover:-translate-y-2 transition duration-300">
               <div className="flex flex-col items-center gap-3">
                 <img
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
                   className="w-10 h-10"
                 />
-                <p className="font-medium">React</p>
+                <p className="font-medium">Next.js</p>
               </div>
               <div className="mt-4">
                 <div className="w-full bg-gray-200 rounded-full h-2">
-                  <div className="bg-black h-2 rounded-full w-[90%]"></div>
+                  <div className="bg-black h-2 rounded-full w-[70%]"></div>
                 </div>
               </div>
             </div>
@@ -60,6 +60,21 @@ export default function About() {
               <div className="mt-4">
                 <div className="w-full bg-gray-200 rounded-full h-2">
                   <div className="bg-black h-2 rounded-full w-[85%]"></div>
+                </div>
+              </div>
+            </div>
+            {/* Supabase */}
+            <div className="bg-white border rounded-2xl p-5 shadow-sm hover:shadow-xl hover:-translate-y-2 transition duration-300">
+              <div className="flex flex-col items-center gap-3">
+                <img
+                  src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
+                  className="w-10 h-10"
+                />
+                <p className="font-medium">Supabase</p>
+              </div>
+              <div className="mt-4">
+                <div className="w-full bg-gray-200 rounded-full h-2">
+                  <div className="bg-black h-2 rounded-full w-[80%]"></div>
                 </div>
               </div>
             </div>
@@ -128,22 +143,6 @@ export default function About() {
               </div>
             </div>
 
-            {/* Supabase */}
-            <div className="bg-white border rounded-2xl p-5 shadow-sm hover:shadow-xl hover:-translate-y-2 transition duration-300">
-              <div className="flex flex-col items-center gap-3">
-                <img
-                  src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
-                  className="w-10 h-10"
-                />
-                <p className="font-medium">Supabase</p>
-              </div>
-              <div className="mt-4">
-                <div className="w-full bg-gray-200 rounded-full h-2">
-                  <div className="bg-black h-2 rounded-full w-[80%]"></div>
-                </div>
-              </div>
-            </div>
-
             {/* Vite */}
             <div className="bg-white border rounded-2xl p-5 shadow-sm hover:shadow-xl hover:-translate-y-2 transition duration-300">
               <div className="flex flex-col items-center gap-3">
@@ -159,7 +158,8 @@ export default function About() {
                 </div>
               </div>
             </div>
-            {/* React Native */}
+
+            {/* React */}
             <div className="bg-white border rounded-2xl p-5 shadow-sm hover:shadow-xl hover:-translate-y-2 transition duration-300">
               <div className="flex flex-col items-center gap-3">
                 <img
@@ -170,7 +170,7 @@ export default function About() {
               </div>
               <div className="mt-4">
                 <div className="w-full bg-gray-200 rounded-full h-2">
-                  <div className="bg-black h-2 rounded-full w-[60%]"></div>
+                  <div className="bg-black h-2 rounded-full w-[70%]"></div>
                 </div>
               </div>
             </div>
