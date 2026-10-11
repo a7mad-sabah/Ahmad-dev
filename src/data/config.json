@@ -8,6 +8,12 @@
   "hireMeLink": "https://t.me/A7madsabah",
   "projects": [
     {
+      "project-name": "Rasa.dev",
+      "project-desc": "",
+      "project-image-url": "/images/project8.jpg",
+      "project-link": "https://rasadev.vercel.app/"
+    },
+    {
       "project-name": "K Removal house - still working on it ",
       "project-desc": "",
       "project-image-url": "/images/project7.jpg",
